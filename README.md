@@ -80,16 +80,16 @@ The economy of the village is driven by agricultural activities.</font>
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="cyan">
+<body bgcolor="gray">
 <h1 align="center">
-<font color="purple"><b>PALLAVADA</b></font>
+<font color="blue"><b>PALLAVADA</b></font>
 </h1>
 <h2 align="center">
-<font color="violet"><b> pallavada village road</b><font>
+<font color="orange"><b> pallavada village road</b><font>
 </h2>
-<hr size="3" color="purple">
+<hr size="3" color="blue">
 <p align="justify">
-<font face="Georgia" size="5" color="brown">
+<font face="Georgia" size="5" color="yellow">
 The village is connected to near by towns by bus. The Tamil Nadu government runs one bus services reaching this village. The Andhra Pradesh Government also runs one bus connecting the village to Uthukottai and Sullurupattai.</font>
 </p>
 </body>
@@ -101,16 +101,16 @@ The village is connected to near by towns by bus. The Tamil Nadu government runs
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="sky blue">
+<body bgcolor="Yellow">
 <h1 align="center">
-<font color="blue"><b>PALLAVADA</b></font>
+<font color="green"><b>PALLAVADA</b></font>
 </h1>
 <h2 align="center">
-<font color="orange"><b>Dharma-raja-swami temple</b><font>
+<font color="red"><b>Dharma-raja-swami temple</b><font>
 </h2>
-<hr size="3" color="blue">
+<hr size="3" color="green">
 <p align="justify">
-<font face="Georgia" size="5" color="yellow">
+<font face="Georgia" size="5" color="blue">
 11-day festival for lord Dharma-raja-swami temple.2-day festival for lord Venkateswara temple which happens every year in the month of June.Vinayaka Chaturthi with kuttu dance and some other activities.
 Pongal: Girls together and enjoyed in the name of 'gobbi'. Men together and enjoyed in the name of 'kolatam'.Karthika deepam is celebrated in lord Siva temple.</p>
 </body>
@@ -122,16 +122,16 @@ Pongal: Girls together and enjoyed in the name of 'gobbi'. Men together and enjo
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="yellow">
+<body bgcolor="green">
 <h1 align="center">
-<font color="green"><b>PALLAVADA</b></font>
+<font color="blue"><b>PALLAVADA</b></font>
 </h1>
 <h2 align="center">
 <font color="red"><b>pallavada cricket ground</b><font>
 </h2>
 <hr size="3" color="green">
 <p align="justify">
-<font face="Georgia" size="5" color="blue">
+<font face="Georgia" size="5" color="yellow">
 The village cricket ground is like the heart of a small community. It's where friends and families gather to enjoy the sport, cheer on the local team, and create lasting memories. The sounds of the bat hitting the ball, the cheers from the spectators, and the smell of freshly cut grass make the village cricket ground a special place. It's not just about the game. it's about coming together as a community.</font>
 </p>
 </body>
@@ -143,16 +143,16 @@ The village cricket ground is like the heart of a small community. It's where fr
 <head>
 <title>My Home Town</title>
 </head>
-<body bgcolor="gray">
+<body bgcolor="cyan">
 <h1 align="center">
-<font color="blue"><b>PALLAVADA</b></font>
+<font color="purple"><b>PALLAVADA</b></font>
 </h1>
 <h2 align="center">
-<font color="orange"><b>Pallavada Lake</b><font>
+<font color="violet"><b>Pallavada Lake</b><font>
 </h2>
-<hr size="3" color="blue">
+<hr size="3" color="purple">
 <p align="justify">
-<font face="Georgia" size="5" color="yellow">
+<font face="Georgia" size="5" color="brown">
 The Pallavada village lake is a serene and picturesque spot in the heart of the village. It's a place where people gather to enjoy the beauty of nature, relax by the water, and sometimes even engage in fishing or boating activities. The lake serves as a peaceful retreat for the villagers, offering a sense of tranquility and connection to the natural world. Just like the village cricket ground, the Pallavada village lake plays a vital role in bringing the community together and fostering a sense of unity and belonging</font>
 </p>
 </body>
@@ -163,16 +163,19 @@ The Pallavada village lake is a serene and picturesque spot in the heart of the 
 ![Screenshot 2024-03-31 231526](https://github.com/Dhanusha17/NearMe/assets/151549957/540bd0f4-623d-487a-b7e3-f1bf1777a55b)
 
 ## Road.html
-![Screenshot 2024-03-31 231707](https://github.com/Dhanusha17/NearMe/assets/151549957/c0ffc518-2da3-4ef8-82b2-ae5615d01da5)
+![Screenshot 2024-04-06 214644](https://github.com/Dhanusha17/NearMe/assets/151549957/a393eb78-7c3e-456a-8b94-9615b09136ea)
 
 ## Temple.html
-![Screenshot 2024-03-31 231553](https://github.com/Dhanusha17/NearMe/assets/151549957/92cc86fe-5ce9-44fc-8e23-a533fa900384)
+![Screenshot 2024-04-06 214939](https://github.com/Dhanusha17/NearMe/assets/151549957/2c820f16-a7e9-460e-833f-f3375495e3da)
 
 ## Ground.html
-![Screenshot 2024-03-31 231646](https://github.com/Dhanusha17/NearMe/assets/151549957/55fbaa40-c706-4a30-8cf1-8d99910d50f8)
+![Screenshot 2024-04-06 220600](https://github.com/Dhanusha17/NearMe/assets/151549957/e24b9511-3358-47dc-92c3-00d8be22b8f7)
+
+
 
 ## Lake.html
-![Screenshot 2024-03-31 231615](https://github.com/Dhanusha17/NearMe/assets/151549957/bc19e6fb-220f-4bb9-9af8-40ce358a4c08)
+![Screenshot 2024-04-06 215402](https://github.com/Dhanusha17/NearMe/assets/151549957/4e3dbdf6-2514-4074-87fd-cc83f6285459)
+
 
 
 
